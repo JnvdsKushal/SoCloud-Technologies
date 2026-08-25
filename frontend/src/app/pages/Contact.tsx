@@ -35,7 +35,7 @@ const jsonLd = {
     },
     {
       "@type": "LocalBusiness",
-      "name": "Tech Elite IT Solutions KPHB",
+      "name": "SoCloud Technologies",
       "url": "https://www.techeliteitsolutions.com",
       "telephone": "+919133454949",
       "address": {

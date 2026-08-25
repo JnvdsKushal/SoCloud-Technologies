@@ -242,7 +242,7 @@ export function Register() {
             style={{ background: "rgba(255,255,255,0.08)", backdropFilter: "blur(8px)" }}>
             <Sparkles className="w-4 h-4" />
           </div>
-          <span>TechElite</span>
+          <span>SoCloud Technologies</span>
         </div>
 
         {/* Characters — centred */}
@@ -274,7 +274,7 @@ export function Register() {
             <div className="w-8 h-8 rounded-lg flex items-center justify-center" style={{ background:"rgba(255,255,255,0.08)" }}>
               <Sparkles className="w-4 h-4" />
             </div>
-            <span>TechElite</span>
+            <span>SoCloud Technologies</span>
           </div>
 
           {/* Header */}
