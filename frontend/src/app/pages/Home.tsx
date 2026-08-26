@@ -45,7 +45,7 @@ const successStories = [
     course: 'Azure Data Engineering',
     company: 'Infosys',
     package: '₹8 LPA',
-    testimonial: 'From zero coding knowledge to getting placed in Infosys. The journey was amazing with TechElite.',
+    testimonial: 'From zero coding knowledge to getting placed in Infosys. The journey was amazing with SoCloud.',
   },
   {
     name: 'Keerthi',
