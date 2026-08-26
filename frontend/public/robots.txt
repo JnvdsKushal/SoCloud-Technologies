@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /login
+Disallow: /register
+Disallow: /profile
+
+Sitemap: https://www.socloudtechnologies.com/sitemap.xml
